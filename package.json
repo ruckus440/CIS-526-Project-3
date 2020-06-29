@@ -1,0 +1,12 @@
+{
+  "name": "cs4ks",
+  "version": "1.0.0",
+  "description": "CIS 526 Project 3: Node Web Server for Computer Science for Kansas",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest test",
+    "start": "node server.js"
+  },
+  "author": "Mike Ruckert",
+  "license": "UNLICENSED"
+}
